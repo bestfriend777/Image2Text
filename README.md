@@ -1,2 +1,2 @@
 # Image2Text
-  ~Experimental~ image processor
+  ~Experimental~ image ~processor~
