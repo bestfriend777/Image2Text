@@ -51,6 +51,7 @@ public class Printer
         return m_Instance;
     }
     
+    // Come up with shorter syntax than 'Printer.Print()'
     public static void Print(String str)
     {
         Console.WriteLine(str);

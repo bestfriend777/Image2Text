@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image2Text", "Image2Text\Image2Text.csproj", "{AFE3D7FA-9B2D-40AE-B840-C13D2EAF74A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE3D7FA-9B2D-40AE-B840-C13D2EAF74A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE3D7FA-9B2D-40AE-B840-C13D2EAF74A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE3D7FA-9B2D-40AE-B840-C13D2EAF74A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE3D7FA-9B2D-40AE-B840-C13D2EAF74A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94380BFF-019A-4931-953E-4D136691095F}
+	EndGlobalSection
+EndGlobal
