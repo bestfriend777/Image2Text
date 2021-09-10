@@ -1,0 +1,15 @@
+﻿  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+	<BaseOutputPath>..\build\bin\</BaseOutputPath>
+	<OutputPath>$(BaseOutputPath)$(Configuration)\</OutputPath>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+	<BaseIntermediateOutputPath>..\build\obj\</BaseIntermediateOutputPath>
+	<IntermediateOutputPath>$(BaseIntermediateOutputPath)$(Configuration)\</IntermediateOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+	<BaseOutputPath>..\build\bin\</BaseOutputPath>
+	<OutputPath>$(BaseOutputPath)$(Configuration)\</OutputPath>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+	<BaseIntermediateOutputPath>..\build\obj\</BaseIntermediateOutputPath>
+	<IntermediateOutputPath>$(BaseIntermediateOutputPath)$(Configuration)\</IntermediateOutputPath>
+  </PropertyGroup>
